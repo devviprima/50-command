@@ -1,4 +1,4 @@
 # 50-command 
 
 `whoami
-![1](cmd 1.png)
+![1](cmd1.png)
