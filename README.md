@@ -1,1 +1,3 @@
-# 50-command
+# 50-command 
+
+![1](cmd 1.png)
